@@ -8,7 +8,7 @@
         android:id="@+id/text_mian"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="这是第一页"/>
+        android:text="这是第一页修改"/>
     <Button
         android:id="@+id/btn_mian"
         android:layout_width="wrap_content"
